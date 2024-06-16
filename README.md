@@ -1,4 +1,4 @@
-# Simple clicker
+## Simple clicker
 <br>
 <br>
 <br>
